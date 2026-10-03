@@ -1,0 +1,31 @@
+order_id;total_qty;total_weight_gr;total_returned_qty;Total Diskon;product_categories;num_product_categories;Status Pesanan;Alasan Pembatalan;Opsi Pengiriman;Metode Pembayaran;Kota/Kabupaten;Provinsi;Ongkos Kirim Dibayar oleh Pembeli;Estimasi Potongan Biaya Pengiriman;Total Pembayaran;Perkiraan Ongkos Kirim;Waktu Pesanan Dibuat;order_date
+ORD_0003302;;400;0;0;Mangkok Sambal / Saus;1;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;;KOTA TANGERANG;BANTEN;0;3500;33000;3500;2025-08-23 19:39;2025-08-23
+ORD_0006772;;4000;0;0;Other;1;Batal;Dibatalkan oleh Pembeli. Alasan: Lainnya/ berubah pikiran;Hemat Kargo-SPX Hemat;;KAB. MERANGIN;JAMBI;0;0;0;146000;2024-01-13 19:28;2024-01-13
+ORD_0016689;;1000;0;0;Teko / Jug;1;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;;KOTA JAKARTA PUSAT;DKI JAKARTA;0;8000;37400;8000;2024-10-11 17:22;2024-10-11
+ORD_0000138;;500;0;0;Celengan;1;Selesai;Tidak dibatalkan;Reguler (Cashless)-JNE Reguler;SPayLater;KOTA JAKARTA PUSAT;DKI JAKARTA;10000;0;30189;10000;2024-04-15 17:27;
+ORD_0000368;;200;0;0;Mangkok Sambal / Saus;1;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;COD (Bayar di Tempat);KOTA TANGERANG SELATAN;BANTEN;8000;0;24920;8000;2024-04-24 08:49;2024-04-24
+ORD_0000426;;2000;0;0;Piring;1;Selesai;Tidak dibatalkan;Reguler (Cashless)-SPX Standard;Kartu Kredit/Debit;KAB. BEKASI;JAWA BARAT;0;20000;106000;20000;2024-04-26 19:21;2024-04-26
+ORD_0000431;;19500;0;0;Celengan, Peralatan Makan, Toples / Sealware;3;Selesai;Tidak dibatalkan;Same Day-SPX Sameday;Saldo ShopeePay;KOTA JAKARTA UTARA;DKI JAKARTA;11500;20000;173624;31500;2024-04-27 00:57;2024-04-27
+ORD_0000578;;2000;0;0;Nampan / Tray;1;Selesai;Tidak dibatalkan;Reguler (Cashless)-SPX Standard;Online Payment;KOTA JAKARTA SELATAN;DKI JAKARTA;0;18000;67000;18000;2025-04-07 06:55;2025-04-07
+ORD_0000092;18.0;88110;0;0;Bangku / Kursi Kecil, Botol / Gelas / Mug, Nampan / Tray, Peralatan Makan, Perlengkapan Packing, Plastik / Wadah Plastik, Saringan / Strainer, Talenan, Toples / Sealware;9;Batal;Dibatalkan oleh Pembeli. Alasan: Need to change delivery address;Kargo-JNE Trucking (JTR);;KOTA SURABAYA;JAWA TIMUR;0;0;0;39900;2024-04-13 07:30;2024-04-13
+ORD_0000103;1.0;500;0;0;Celengan;1;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;;KOTA SEMARANG;JAWA TENGAH;4500;10000;25543;14500;2024-04-13 22:36;2024-04-13
+ORD_0000104;6.0;3900;0;0;Mangkok Sambal / Saus, Other, Tempat Sampah;3;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;;KAB. KAUR;BENGKULU;37300;0;119372;37300;2024-04-13 23:03;2024-04-13
+ORD_0000132;1.0;500;0;0;Celengan;1;Batal;Dibatalkan oleh Pembeli. Alasan: Lainnya/ berubah pikiran;Hemat Kargo-SPX Hemat;;KAB. TANGERANG;BANTEN;0;0;0;8000;2024-04-15 10:01;2024-04-15
+ORD_0000148;1.0;500;0;0;Celengan;1;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;;KOTA JAKARTA TIMUR;DKI JAKARTA;8000;0;25900;8000;2024-04-15 21:40;2024-04-15
+ORD_0000085;1.0;500;0;0;Celengan;1;Selesai;Tidak dibatalkan;Reguler (Cashless)-SPX Standard;Saldo ShopeePay;KOTA TANGERANG;BANTEN;0;9500;20800;9500;2024-04-12 18:16;
+ORD_0000089;1.0;500;0;0;Celengan;1;Selesai;Tidak dibatalkan;Reguler (Cashless)-SPX Standard;SPayLater;KOTA BEKASI;JAWA BARAT;9500;0;28270;9500;2024-04-13 02:53;
+ORD_0000153;1.0;500;0;0;Celengan;1;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;SeaBank Bayar Instan;KOTA JAKARTA SELATAN;DKI JAKARTA;0;8000;20800;8000;2024-04-16 10:39;
+ORD_0000161;6.0;1800;0;0;Plastik / Wadah Plastik;1;Batal;Dibatalkan oleh Pembeli. Alasan: Ubah Pesanan yang Ada;Hemat Kargo-SPX Hemat;Saldo ShopeePay;KAB. BOGOR;JAWA BARAT;0;0;0;16000;2024-04-16 18:13;
+ORD_0000411;1.0;500;0;0;Celengan;1;Selesai;Tidak dibatalkan;Reguler (Cashless)-SPX Standard;COD (Bayar di Tempat);KOTA BEKASI;JAWA BARAT;0;9500;18680;9500;2024-04-25 20:05;
+ORD_0001355;2.0;160;0;0;Aksesoris Pintu;1;Selesai;Tidak dibatalkan;Reguler (Cashless)-SPX Standard;SeaBank Bayar Instan;KOTA JAKARTA TIMUR;DKI JAKARTA;0;10000;10445;10000;2024-08-01 19:29;2024-13-40
+ORD_0001557;10.0;6150;0;0;Botol / Gelas / Mug, Mangkok Sambal / Saus, Saringan / Strainer;3;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;Online Payment;KAB. BANYUWANGI;JAWA TIMUR;23000;20000;94064;43000;2024-08-06 15:33;2024-13-40
+ORD_0002262;1.0;1700;0;0;Nampan / Tray;1;Batal;Dibatalkan oleh Pembeli. Alasan: Perlu mengubah Voucher;Hemat Kargo;Online Payment;KOTA TANGERANG;BANTEN;0;0;0;16000;2024-08-23 21:57;2024-13-40
+ORD_0003413;1.0;200;0;0;Mangkok Sambal / Saus;1;Selesai;Tidak dibatalkan;Reguler (Cashless)-SPX Standard;;KOTA DEPOK;JAWA BARAT;6500;0;21405;6500;2025-08-27 22:34;2024-13-40
+ORD_0000060;1.0;500;0;0;Celengan;1;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;COD (Bayar di Tempat);KAB. GARUT;JAWA BARAT;4000;10000;25752;14000;2024-04-10 13:37;10/04/2024
+ORD_0000082;6.0;1200;0;0;Mangkok Sambal / Saus;1;Selesai;Tidak dibatalkan;Reguler (Cashless)-SPX Standard;Kartu Kredit/Debit;KAB. LUMAJANG;JAWA TIMUR;0;19000;83283;19000;2024-04-12 16:15;12/04/2024
+ORD_0000101;1.0;500;0;0;Celengan;1;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;Saldo ShopeePay;KAB. KARAWANG;JAWA BARAT;0;10000;20800;10000;2024-04-13 19:51;13/04/2024
+ORD_0000271;2.0;1420;0;0;Perlengkapan Packing, Rak / Rak Serbaguna;2;Batal;Dibatalkan oleh Pembeli. Alasan: Need to change delivery address;Hemat Kargo-SPX Hemat;COD (Bayar di Tempat);KAB. SIDOARJO;JAWA TIMUR;0;0;0;14500;2024-04-19 20:26;19/04/2024
+ORD_0000031;1.0;200;0;0;Mangkok Sambal / Saus;1;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;COD;KAB. KEBUMEN;JAWA TENGAH;18000;0;33000;18000;2024-04-01 21:23;2024-04-01
+ORD_0000044;1.0;500;0;0;Celengan;1;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;OnlinePayment;KOTA TANGERANG SELATAN;BANTEN;8000;0;27000;8000;2024-04-09 02:45;2024-04-09
+ORD_0000058;1.0;500;0;0;Celengan;1;Selesai;Tidak dibatalkan;Reguler (Cashless)-SPX Standard;Cash On Delivery;KAB. BEKASI;JAWA BARAT;0;9500;19800;9500;2024-04-10 11:40;2024-04-10
+ORD_0000159;1.0;50;0;0;Stempel / Alat Kantor;1;Selesai;Tidak dibatalkan;Hemat Kargo-SPX Hemat;Cash On Delivery;KAB. BANDUNG;JAWA BARAT;10500;0;54560;10500;2024-04-16 15:56;2024-04-16
